@@ -5,7 +5,7 @@ I am fluent in Python, C++, HTML and CSS with an advanced knowledge of popular P
 I primarily use coding for data analysis but I have also made some interesting projects in both C++ and Python.
 
 ## Physics Undergraduate Lab Experiments
-* Year 1: Forced Oscillations (94%) https://github.com/harrytabb2001/forcedoscillations
+* Year 1: Forced Oscillations (94%) https://github.com/harrytabb2001/Forced-Oscillations
 
 ## University Coding Projects
 
