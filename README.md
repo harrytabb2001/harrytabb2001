@@ -12,12 +12,12 @@ I primarily use coding for data analysis but I have also made some interesting p
 * Forced Oscillations (94%) https://github.com/harrytabb2001/Forced-Oscillations
 
 ### Year 2
-* High Resolution Gamma Ray Spectroscopy
-* Cepheid Variables
-* The Franck-Hertz Experiment
-* Amplifiers and Feedback
-* Low Temperature Resistance
-* Diffraction of Light
+* High Resolution Gamma Ray Spectroscopy (85%)
+* Cepheid Variables (97.5%)
+* The Franck-Hertz Experiment (97.5%)
+* Amplifiers and Feedback (90%)https://github.com/harrytabb2001/Amplifiers-and-Feedback
+* Low Temperature Resistance (90%)https://github.com/harrytabb2001/Low-Temperature-Resistance
+* Diffraction of Light (80%) https://github.com/harrytabb2001/Diffraction-Of-Light
 
 ### Year 3
 * MicroBooNE Neutrino Oscillations
