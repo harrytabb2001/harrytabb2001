@@ -20,8 +20,8 @@ I primarily use coding for data analysis but I have also made some interesting p
 * Diffraction of Light (80%) https://github.com/harrytabb2001/Diffraction-Of-Light
 
 ### Year 3
-* MicroBooNE Neutrino Oscillations
-* Laser Tweezers
+* MicroBooNE Neutrino Oscillations (83%)
+* Laser Tweezers (75%)
 
 ## University Coding Projects
 
