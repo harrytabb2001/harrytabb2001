@@ -19,7 +19,27 @@ I primarily use coding for data analysis but I have also made some interesting p
 * Low Temperature Resistance
 * Diffraction of Light
 
+### Year 3
+* MicroBooNE Neutrino Oscillations
+* Laser Tweezers
+
 ## University Coding Projects
+
+### C++
+* Stellar Catalogue
+* Class hierarchy for shapes
+* Creating a matrix interface
+* Creating a complex number interface
+* Galaxy Classification
+* Data Sorting
+* Bohr Atom Energy
+
+### Python
+* Simulating neutron penetration with monte carlo techniques
+* Investigating numerical integration methods
+* Data analysis on the different spreading laws for fluids
+* Data analysis on the Breit-Wigner distribution
+* Simulating a bouncing ball
 
 
 
