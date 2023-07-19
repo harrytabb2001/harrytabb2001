@@ -12,7 +12,12 @@ I primarily use coding for data analysis but I have also made some interesting p
 * Forced Oscillations (94%) https://github.com/harrytabb2001/Forced-Oscillations
 
 ### Year 2
-
+* High Resolution Gamma Ray Spectroscopy
+* Cepheid Variables
+* The Franck-Hertz Experiment
+* Amplifiers and Feedback
+* Low Temperature Resistance
+* Diffraction of Light
 
 ## University Coding Projects
 
