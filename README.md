@@ -25,6 +25,8 @@ I primarily use coding for data analysis but I have also made some interesting p
 
 ### Year 4
 
+* Building a neural network to model defence tactics in football for CFG (In Progress)
+
 ## University Coding Projects
 
 ### C++
