@@ -3,6 +3,7 @@
 Hello I'm Harry, a fourth year Master of Physics student at The University of Manchester.
 I am fluent in Python, C++, HTML and CSS with an advanced knowledge of popular Python modules such as numpy, matplotlib and pandas.
 I primarily use coding for data analysis but I have also made some interesting projects in both C++ and Python.
+Please note that this page is a work in progress and I am in the process of uploading files so some documents are incomplete.
 
 ## Physics Undergraduate Lab Experiments
 ### Year 1
