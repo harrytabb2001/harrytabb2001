@@ -7,9 +7,9 @@ I primarily use coding for data analysis but I have also made some interesting p
 Please note that this page is a work in progress and I am in the process of uploading files so some documents are incomplete.
 
 ## Physics Undergraduate Lab Experiments
-Below is a complete list of all lab experiments that I conducted in my 4 years at The University of Manchester. These were all done in collaboration with my lab partner.
-Each experiment has a handwritten lab notebook which I used for rough notetaking during the experiment. These were only meant for rough notes, but I have included them as they give a good overview of the experiments.
-Most experiments also have a typed lab report which give a more official summary of the experiment. These are all written in the house academic style.
+Below is a complete list of all lab experiments that I conducted in my 4 years at The University of Manchester. These were all done in collaboration with my lab partner. \
+Each experiment has a handwritten lab notebook which I used for rough notetaking during the experiment. These were only meant for rough notes, but I have included them as they give a good overview of the experiments.\
+Most experiments also have a typed lab report which give a more official summary of the experiment. These are all written in the house academic style.\
 I also presented the results from the experiments through in-person interviews either alone or as a duo. These ranged from 30 minutes in Year 1 to multiple hour long presentations in Year 4.
 ### Year 1
 * Stellar Astrophysics (85%) https://github.com/harrytabb2001/Stellar-Astrophysics
