@@ -46,5 +46,6 @@ Please note that this page is a work in progress and I am in the process of uplo
 * Data analysis on the Breit-Wigner distribution
 * Simulating a bouncing ball
 
+## Personal Coding Projects
 
 
