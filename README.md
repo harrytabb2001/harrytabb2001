@@ -35,7 +35,7 @@ Most of the lab notebook pdf files struggle to load images when viewed in github
 
 ### Year 4
 
-* Building a neural network to model defence tactics in football for CFG (In Progress)
+* Building a neural network to model defensive football tactics with CFG (80%) https://github.com/harrytabb2001/MastersProject
 
 ## University Coding Projects
 Below is a complete list of the coding projects that I completed during my 4 years at The University of Manchester. It is worth noting that this does not include the coding work used for lab experiments, this is all included above.  These projects focused on simulation, data analysis methods and making interfaces and used C++, Python and Jupyter notebooks. 
