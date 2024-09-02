@@ -11,6 +11,10 @@ Below is a complete list of all lab experiments that I conducted in my 4 years a
 Each experiment has a handwritten lab notebook which I used for rough notetaking during the experiment. These were only meant for rough notes, but I have included them as they give a good overview of the experiments.\
 Most experiments also have a typed lab report which give a more official summary of the experiment. These are all written in the house academic style.\
 I also presented the results from the experiments through in-person interviews either alone or as a duo. These ranged from 30 minutes in Year 1 to multiple hour long presentations in Year 4.
+
+## Note
+Most lab notebook pdf files struggle to load images when viewing in github, for full access please download the files to view.
+
 ### Year 1
 * Stellar Astrophysics (85%) https://github.com/harrytabb2001/Stellar-Astrophysics
 * Analogue Circuits (97%) https://github.com/harrytabb2001/Analogue-Circuits
