@@ -13,7 +13,7 @@ Most experiments also have a typed lab report which give a more official summary
 I also presented the results from the experiments through in-person interviews either alone or as a duo. These ranged from 30 minutes in Year 1 to multiple hour long presentations in Year 4.
 
 ## Note
-Most lab notebook pdf files struggle to load images when viewing in github, for full access please download the files to view.
+Most of the lab notebook pdf files struggle to load images when viewed in github, for full access please download the files to view.
 
 ### Year 1
 * Stellar Astrophysics (85%) https://github.com/harrytabb2001/Stellar-Astrophysics
@@ -50,7 +50,7 @@ Below is a complete list of the coding projects that I completed during my 4 yea
 * Bohr Atom Energy
 
 ### Python
-* Simulating neutron penetration with monte carlo techniques
+* Simulating neutron penetration with Monte Carlo techniques
 * Investigating numerical integration methods
 * Data analysis on the different spreading laws for fluids
 * Data analysis on the Breit-Wigner distribution
