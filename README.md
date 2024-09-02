@@ -13,7 +13,7 @@ Most experiments also have a typed lab report which give a more official summary
 I also presented the results from the experiments through in-person interviews either alone or as a duo. These ranged from 30 minutes in Year 1 to multiple hour long presentations in Year 4.
 
 ## Note
-Most of the lab notebook pdf files struggle to load images when viewed in github, for full access please download the files to view.
+Most of the lab notebook pdf files struggle to load images when viewed in github, for full access please download the files.
 
 ### Year 1
 * Stellar Astrophysics (85%) https://github.com/harrytabb2001/Stellar-Astrophysics
